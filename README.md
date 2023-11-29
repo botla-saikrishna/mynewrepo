@@ -1,3 +1,3 @@
 # mynewrepo
 # this is my first repository
-# By - Saikrishna
+ By Saikrishna author
